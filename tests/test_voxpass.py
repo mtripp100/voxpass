@@ -1,5 +1,6 @@
-from voxpass import voxpass
 import pytest
+
+from voxpass import voxpass
 
 
 @pytest.mark.parametrize('num_vowels, pwd_length', [
