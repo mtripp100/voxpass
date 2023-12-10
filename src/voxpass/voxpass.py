@@ -1,5 +1,5 @@
-import string
 import random
+import string
 
 VOWELS = ("a", "e", "i", "o", "u")
 CONSONANTS = tuple(x for x in string.ascii_lowercase if x not in VOWELS)
