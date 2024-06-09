@@ -1,5 +1,4 @@
 import pytest
-
 from voxpass import voxpass
 
 
